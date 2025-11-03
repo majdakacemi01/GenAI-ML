@@ -3,8 +3,8 @@
 # #Run this command in the terminal to open a python console:
 # #$ python3
 # #Hint: Replace python3 with python for Windows
-
 # #Read about the PATH variable. Try to explain why you can call python3 if you aren’t in the executable directory
+
 #You can run python in the terminal from any directory because the PATH environment variable tells the operating system where to look for executable programs. During installation, Python adds its directory to PATH, so when you type python3, the system searches the directories in PATH, finds the Python executable, and runs it—even if you are not in the Python installation folder.
 
 # #Exercise 2 : Alias
