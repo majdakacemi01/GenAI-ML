@@ -97,7 +97,7 @@ print("Example list (first 10 shown):", random_list[:10])
 # yes, because we used len(random_list) when calculating things like averages,the code adapts automatically to any list size.
 # #Exercice 3
 # #Instructions
-paragraph = "We learn Python for machine learning in Geeks Institute bootcamp."
+paragraph = "We are learning Python for machine learning in Geeks Institute bootcamp."
 num_characters = len(paragraph)
 print("Number of characters:", num_characters)
 sentences = paragraph.split(".")
