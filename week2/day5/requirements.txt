@@ -1,0 +1,7 @@
+psycopg[binary]
+translate
+gTTS
+python-dotenv
+translate
+dotenv
+flask
